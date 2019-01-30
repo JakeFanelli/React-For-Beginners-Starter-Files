@@ -1,4 +1,4 @@
-Deploying to Netlify --> https://catch-of-the-day-jake.netlify.com/
+Deployed using Netlify --> https://catch-of-the-day-jake.netlify.com/
 
 ![](http://wes.io/dgAQ/content)
 
